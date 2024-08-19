@@ -1,0 +1,16 @@
+End Points:
+
+Base URL :
+
+http://localhost:3000
+
+File Creation:
+
+Using Post method
+http://localhost:3000/create-file
+
+
+List Files:
+
+Using Get method
+http://localhost:3000/list-files
